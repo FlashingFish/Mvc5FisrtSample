@@ -16,7 +16,6 @@ namespace Mvc5FisrtSample.Models
         public DateTime Birthday { get; set; }
         [Required]
         public int ParentId { get; set; }
-        [Required]
         public virtual Parent Parent { get; set; }
     }
 }
