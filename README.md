@@ -28,3 +28,6 @@
   - Parents と Children は SexId を持ち、性別を指定する。
   - Sexes には、他テーブル関係のカラムは無い。
 - Sex テーブルは複数のテーブルから参照されるマスタであるため、cascadeDelete をオフに設定
+
+## 詳細
+- [【ASP.NET MVC5】ちょっとしたお試しをするときに土台となるアプリの作り方チュートリアル – oki2a24](http://oki2a24.com/2015/10/19/make-asp-net-mvc5-sample/)
